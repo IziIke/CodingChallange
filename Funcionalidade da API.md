@@ -1,21 +1,21 @@
 # CodingChallange
 
->Primeiramente quero agradecer a equipe Let´s Code por este desafio que me proporcionou uma experiencia unica de busca e crescimento.
+>Primeiramente quero agradecer a equipe Let´s Code por este desafio que me proporcionou uma experiencia única de busca e crescimento.
 
 __________________________________________________________________________________________________
 # Falando um pouco sobre o sistema
 
->Usei a linguagem Java com o framework Spring Boot, pois achei a melhor forma de fazer uma api com segurança onde também consegui trabalhar a parte das permissões com o Spring Security. 
+>Usei a linguagem Java com o framework Spring Boot, pois achei a melhor forma de fazer uma API com segurança onde também consegui trabalhar a parte das permissões com o Spring Security. 
 
 >Na classe SecurityConfiguration é onde acabo dando as permissões, por isso existe um numero grande de controllers, pois aproveitei essa ferramenta para dar prioridades.
 
->Não consegui infelizmente fazer a ligação de algumas tabelas, então as partes de comentário, like e nota ficou mais como uma demonstração.
+>Não consegui, infelizmente, fazer a ligação de algumas tabelas, então as partes de comentário, like e nota ficou mais como uma demonstração.
 
 __________________________________________________________________________________________________
 
 # Como utilizar a API
 
->Observação 1: Eu utilizei o postman para poder fazer o teste da minha API
+>Observação 1: Eu utilizei o Postman para poder fazer o teste da minha API
 
 >Observaçâo 2 : como não tem o processo de cadastro estou subindo usuarios padrões, são:
 
@@ -28,7 +28,7 @@ ________________________________________________________________________________
 .Avançado -> login: avancado, senha: password
 __________________________________________________________________________________________________
 
->Caso não seja feito o login não ira funcionar nenhum end point.
+>Caso não seja feito o login não ira funcionar nenhuma requisição.
 
 __________________________________________________________________________________________________
 
