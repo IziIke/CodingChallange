@@ -98,7 +98,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________
 
 
-Obrigado novamente pela a experiencia e por esse processo seletivo incrivel! 
+Obrigado, novamente, pela a experiencia e por esse processo seletivo incrivel! 
 
 
 __________________________________________________________________________________________________
